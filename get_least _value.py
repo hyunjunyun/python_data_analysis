@@ -9,5 +9,4 @@ dt_mode = stats.mode(data)
 print(round(dt_mean, 2))
 print(dt_median)
 print(dt_mode[0][0])
-
-
+ 
