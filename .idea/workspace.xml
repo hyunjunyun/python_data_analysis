@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="042a7890-6df5-4c1c-8332-fede7470d8a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dispersion_graph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/get_least _value.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_least _value.py" afterDir="false" />
     </list>
@@ -153,7 +151,7 @@
       <workItem from="1620770422529" duration="1451000" />
       <workItem from="1621085382621" duration="93000" />
       <workItem from="1621252593673" duration="1911000" />
-      <workItem from="1621275173140" duration="115000" />
+      <workItem from="1621275173140" duration="129000" />
     </task>
     <servers />
   </component>
