@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="042a7890-6df5-4c1c-8332-fede7470d8a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/get_least _value.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_least _value.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_crawling.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_crawling.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +59,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../flask_correlation" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.dispersion_graph">
+  <component name="RunManager" selected="Python.web_crawling">
     <configuration name="dispersion_graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,9 +135,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.web_crawling" />
         <item itemvalue="Python.dispersion_graph" />
         <item itemvalue="Python.get_least _value" />
-        <item itemvalue="Python.web_crawling" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +154,10 @@
       <workItem from="1620770422529" duration="1451000" />
       <workItem from="1621085382621" duration="93000" />
       <workItem from="1621252593673" duration="1911000" />
-      <workItem from="1621275173140" duration="164000" />
+      <workItem from="1621275173140" duration="203000" />
+      <workItem from="1623222583657" duration="3803000" />
+      <workItem from="1623733005649" duration="679000" />
+      <workItem from="1623817009731" duration="4301000" />
     </task>
     <servers />
   </component>
@@ -160,7 +166,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_project$get_least__value.coverage" NAME="get_least _value Coverage Results" MODIFIED="1620659721370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_project$web_crawling.coverage" NAME="web_crawling Coverage Results" MODIFIED="1620648895006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_project$web_crawling.coverage" NAME="web_crawling Coverage Results" MODIFIED="1623225685936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_project$dispersion_graph.coverage" NAME="dispersion_graph Coverage Results" MODIFIED="1620771699846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

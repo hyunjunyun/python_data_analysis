@@ -1,7 +1,5 @@
-from urllib.request import urlopen
-from bs4 import BeautifulSoup
+import pandas as pd
+import time
+from selenium import webdriver
 
-html = urlopen("https://kosis.kr/covid/covid_index.do")
-bsObject = BeautifulSoup(html, "html.parser")
-
-print(bsObject.find('table'))
+pd.set_option('display.max_rows',100)
